@@ -1,0 +1,8 @@
+../Core/Src/display_led.c:21:6:clear_vertical	8	static
+../Core/Src/display_led.c:25:6:clear_horizontal	8	static
+../Core/Src/display_led.c:29:6:clearLED	8	static
+../Core/Src/display_led.c:35:6:currentState_update	16	static
+../Core/Src/display_led.c:41:6:vertical_processing	8	static
+../Core/Src/display_led.c:55:6:horizontal_processing	8	static
+../Core/Src/display_led.c:73:6:SHOW_LED	8	static
+../Core/Src/display_led.c:86:6:update_led	16	static
