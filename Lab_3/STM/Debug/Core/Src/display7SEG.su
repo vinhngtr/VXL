@@ -1,0 +1,6 @@
+../Core/Src/display7SEG.c:20:6:clear7SEG	8	static
+../Core/Src/display7SEG.c:29:6:update_tval	4	static
+../Core/Src/display7SEG.c:35:6:displayValue	4	static
+../Core/Src/display7SEG.c:38:6:displayMode	4	static
+../Core/Src/display7SEG.c:42:6:display7SEG	32	static
+../Core/Src/display7SEG.c:51:6:show7SEG	8	static
