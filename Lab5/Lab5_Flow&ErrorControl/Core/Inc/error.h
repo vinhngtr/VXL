@@ -1,8 +1,8 @@
 /*
  * error.h
  *
- *  Created on: 3 Dec 2021
- *      Author: WIN 10
+ *  Created on: 16 Dec 2022
+ *      Author: NTV
  */
 
 #ifndef INC_ERROR_H_
