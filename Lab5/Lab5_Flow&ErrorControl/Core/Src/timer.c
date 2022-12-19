@@ -1,8 +1,8 @@
 /*
  * timer.c
  *
- *  Created on: 3 Dec 2021
- *      Author: WIN 10
+ *  Created on: 16 Dec 2022
+ *      Author: NTV
  */
 #include "main.h"
 #include "timer.h"
